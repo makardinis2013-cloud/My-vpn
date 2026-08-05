@@ -24,6 +24,8 @@ vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?flow=xtls-rprx-vis
 
 vless://5c6d8045-9de9-45e4-b495-463fc3f1a828@31.58.46.47:1683?flow=xtls-rprx-vision&encryption=none&security=reality&sni=celerisdigital.top&fp=firefox&echfq=none&pbk=_fz8jpa604XXSweCCf6PU9Xmd7F4sZ1RSMqNTzwBVA0&sid=a4f8c92d&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BB%20Youtube%20%D0%91%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B
 
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@paris.vypnet.su:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=p.keshevoz.ru&fp=firefox&echfq=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&allowinsecure=0&type=tcp&headerType=none#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+
 hysteria2://e86fd04e-a2f5-4779-a529-748b1813cbc2@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net&allowinsecure=0#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=vindobona.org&fp=firefox&echfq=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F
