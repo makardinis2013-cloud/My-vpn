@@ -6,9 +6,7 @@
 
 #profile-web-page-url: https://t.me/Freevpn20262026
 
-#announce: Не работает впн? нажмите 🔄
-           телеграм канал: https://t.me/Freevpn20262026 🏔️
-           форум: https://t.me/freevpn202620262026 👥
+#announce: Не работает впн? нажмите на 🔄
 
 #support-url: https://t.me/Freevpn20262026
 
@@ -65,3 +63,17 @@ vless://@https:-1?encryption=none&security=none&type=tcp&headerType=none#%5B%D0%
 vless://7aa508f3-176f-002f-add3-646af94d6288@93.189.63.146:443?encryption=none&security=reality&sni=mm.melbicom.net&fp=firefox&echfq=none&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&sid=3b5b38669a1a51c0&allowinsecure=0&type=xhttp&mode=packet-up&path=%2Fstatic&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0.0%2C%22hKeepAlivePeriod%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A2.0%7D%7D#%F0%9F%87%B8%F0%9F%87%AA%20%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%231
 
 vless://7836b28e-8451-4596-ad3e-e3601b2335ba@64.188.82.152:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&alpn=http%2F1.1&fp=safari&echfq=none&pcs=dc554fddecc5fb70f55d439bc1e1c42acb5e7b8ebbcd85224aee41aad3b1c104&allowinsecure=0&type=ws&host=cloudflare.vhub.pro&path=%2Fwebsocket%3Fed%3D2560#%F0%9F%87%AA%F0%9F%87%BA%20%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%232
+
+vless://https://t.me/Freevpn20262026@t.me/Freevpn20262026:20262026?encryption=none&security=none&type=tcp&headerType=none#(%20%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%D0%9E%D0%92%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9E%D0%9A%20%2B%20%D0%92%D0%9F%D0%9D%20)
+
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node19.mxvpn.dev:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node19.mxvpn.dev&fp=firefox&echfq=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%2B%20vpn%20%231
+
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node21.mxvpn.dev:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node21.mxvpn.dev&fp=firefox&echfq=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%2B%20vpn%20%232
+
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node15.mxvpn.dev:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node15.mxvpn.dev&fp=firefox&echfq=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%2B%20vpn%20%233
+
+год vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node17.mxvpn.dev:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node17.mxvpn.dev&fp=firefox&echfq=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%2B%20vpn%20%234
+
+vless://59b2ff61-808d-4dcc-b74a-fa283ff82c42@46.8.237.5:2084?encryption=none&security=none&type=grpc&mode=multi&authority=&serviceName=grpc#%F0%9F%87%B1%F0%9F%87%BB%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%2B%20vpn%20%235
+
+vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@199.232.239.242:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&fp=firefox&echfq=none&allowinsecure=0&type=xhttp&mode=packet-up&host=oh1.global.ssl.fastly.net&path=%2F#%F0%9F%87%B5%F0%9F%87%B1%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%2B%20vpn%20%236
