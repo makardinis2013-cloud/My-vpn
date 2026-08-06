@@ -20,7 +20,7 @@ vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@80.79.4.33:443?encryption=none&secu
 
 vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@5.231.18.206:443?encryption=none&security=reality&sni=monalisgame.com&fp=edge&echfq=none&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%E2%9A%A1%D0%90%D0%B2%D1%82%D0%BE%20(%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9)%204
 
-vless://ba46709f-7324-48d3-a99c-66669d546448@ukk.spectrum.vu:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ukk.spectrum.vu&fp=firefox&echfq=none&pbk=tCWATDQkb8y96seamXD6wsMSTIQSm-qtAGPnSwQubSQ&sid=2d4f6a8b0c1e&spx=%2F&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%D0%A2%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82
+vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=firefox&echfq=none&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&sid=0dacf3306f&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&fp=chrome&echfq=none&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 
