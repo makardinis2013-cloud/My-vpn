@@ -20,11 +20,7 @@ vless://7f111a18-3773-4dec-8528-fc747a17e5ae@31.58.50.200:8443?flow=xtls-rprx-vi
 
 vless://7836b28e-8451-4596-ad3e-e3601b2335ba@64.188.82.152:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&alpn=http%2F1.1&fp=safari&echfq=none&pcs=dc554fddecc5fb70f55d439bc1e1c42acb5e7b8ebbcd85224aee41aad3b1c104&allowinsecure=0&type=ws&host=cloudflare.vhub.pro&path=%2Fwebsocket%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%8E%AE%20%D0%A1%D0%A8%D0%90
 
-vless://43488128-319e-f480-64ea-0acdc712e2a8@95.179.150.23:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.coolblue.nl&fp=chrome&echfq=none&pbk=jAdL6F6VaKzvTMpPQ53X58sC_i2QY6Wx2rdjq4Eo3yo&sid=a1b2c3d4e5f67890&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%98%D0%9B%D0%95%D0%A0%D0%9B%D0%90%D0%9D%D0%94%D0%AB
-
-vless://9788eded-0f00-4111-ac85-14fb9845e04a@154.222.9.57:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&echfq=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%95%D0%A0%D0%9C%D0%90%D0%9D%D0%98%D0%AF%20%231
-
-vless://5bb07942-ca80-4577-acd0-e5935c3cd523@93.152.217.55:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=vk-portal.ru&fp=firefox&echfq=none&pbk=4uDjB4cV22HwhNwXkyicoWN5ocwxBB85i08lcRpN7Xc&sid=ad5cfe18&spx=%2F06fca620fa52ba5&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%95%D0%A0%D0%9C%D0%90%D0%9D%D0%98%D0%AF%20%232
+vless://5bb07942-ca80-4577-acd0-e5935c3cd523@93.152.217.55:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=vk-portal.ru&fp=firefox&echfq=none&pbk=4uDjB4cV22HwhNwXkyicoWN5ocwxBB85i08lcRpN7Xc&sid=ad5cfe18&spx=%2F06fca620fa52ba5&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%95%D0%A0%D0%9C%D0%90%D0%9D%D0%98%D0%AF
 
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk.bvps.cloud&fp=firefox&echfq=none&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&sid=60debb3ab744d8ce&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%98%D0%9D%D0%9B%D0%AF%D0%9D%D0%94%D0%98%D0%AF
 
