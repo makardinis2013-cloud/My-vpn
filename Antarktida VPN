@@ -1,4 +1,4 @@
-#profile-title: Antarktida VPN
+#profile-title: Antarktida VPN + GS300
 
 #интервал-обновления-профиля: 1
 
@@ -65,3 +65,17 @@ vless://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:2083?encryption=non
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?flow=xtls-rprx-vision&encryption=none&security=tls&sni=secure.furrycdn.net&fp=chrome&echfq=none&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B2%20LTE%20%234
 
 vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=chrome&echfq=none&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B2%20LTE%20%235
+
+wireguard://1@1:443?publickey=&presharedkey=&address=172.16.0.2%2F32%2C%202606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&mtu=1420#%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%20%D0%9E%D0%A2%20GS300
+
+vless://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:2083?encryption=none&security=reality&sni=www.google.com&fp=random&echfq=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&sid=d3124debabf1456c&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=grpc#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%231
+
+vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:6443?encryption=none&security=reality&sni=maps.apple.com&fp=chrome&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=your-custom-path#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%232
+
+vless://95e8532b-cc69-42d4-9553-e3c23292b15b@179.61.227.182:2083?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&sid=d3124debabf1456c&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=grpc#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%231
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.109.189:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=wp.pl&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%231
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@185.42.163.51:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.epicgames.com&fp=firefox&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%231
+
+vless://c099de6a-0805-4052-b959-fd4ab4fc209e@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=chrome&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%231
