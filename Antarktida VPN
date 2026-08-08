@@ -32,8 +32,6 @@ vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:6443?encryption=none
 
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@193.233.89.61:443?encryption=none&security=reality&sni=maps.apple.com&fp=chrome&pbk=gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk&sid=2da4299da566b7&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=your-custom-path#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90
 
-vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:443?encryption=none&security=reality&sni=maps.apple.com&fp=chrome&echfq=none&pbk=gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk&sid=2da4299da566b7&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=your-custom-path#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%232
-
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@193.233.89.61:8443?encryption=none&security=reality&sni=maps.apple.com&fp=chrome&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=your-custom-path#%F0%9F%87%AB%F0%9F%87%B7%20%20%D0%A4%D0%A0%D0%90%D0%9D%D0%A6%D0%98%D0%AF
 
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@179.61.227.182:2083?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&sid=d3124debabf1456c&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=grpc#%F0%9F%87%AB%F0%9F%87%B7%20%20%D0%A4%D0%A0%D0%90%D0%9D%D0%A6%D0%98%D0%AF%20%232
