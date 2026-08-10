@@ -1,14 +1,19 @@
-#profile-title: Antarktida VPN + GS300
-
-#интервал-обновления-профиля: 1
-
-subscription-userinfo: #subscription-userinfo: upload=0; download=0; total=0;
-
-#profile-web-page-url: https://t.me/Freevpn20262026
-
-#announce: не работает? нажми на 🔄 мой телеграм канал с подписками, конфигами,прокси и тд вот: https://t.me/Freevpn20262026
-
+#hide-servers: true
+#hide-setting : true
+#skip-servers: true
+#hide: true
+#hide-servers: 1
+#hide-setting : 1
+#hide: 1
+#skip-servers: 1
+#profile-title: A N T A R K T I D A A N D G S 3 0 0
+#profile-update-interval: 1
+#announce: не работает? нажми на кнопку: 🔄 телеграм канал с плюхами: https://t.me/Freevpn20262026
 #support-url: https://t.me/Freevpn20262026
+#profile-web-page-url: https://t.me/Freevpn20262026
+#sub-info: Только провереные серверы
+#remark: Стараемся!! 
+#expire: 2026-08-15
 
 wireguard://1@1:443?publickey=&presharedkey=&address=172.16.0.2%2F32%2C%202606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&mtu=1420#%D0%9E%D0%A2%20GS300%2C%20Antarktida%20vpn
 
