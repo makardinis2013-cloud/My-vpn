@@ -6,38 +6,12 @@
 
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.ru&fp=qq&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Telegram
 
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dartsearch-cn.net&fp=firefox&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
+ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.162:443#%F0%9F%87%AA%F0%9F%87%BA%20%E2%9A%A1%20%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%231
 
-hysteria2://sub_be721490-929d-4b_67:zHPB5E2c7RAV64LbEG8cKBYpJWAN4SFg@91.185.83.48:51250?security=tls&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22HdIeb%24_FG42iE%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&sni=antikifin.xanka.best#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%232
+ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.42:8080#%F0%9F%87%AA%F0%9F%87%BA%20%E2%9A%A1%20%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%232
 
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dartsearch-cn.net&fp=firefox&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://53ffd172-de4c-0024-aa77-1a6830a36cf8@135.106.142.209:443?encryption=none&security=reality&sni=alfastat.ru&fp=firefox&pbk=fz_xpZfQks3oa9c_d1OSokmTgmJuGbvFMkyK0Qt8w3I&sid=0066a7326f06d426&type=xhttp&mode=auto&path=%2Fassets#%F0%9F%87%B7%F0%9F%87%BA%20LTE
 
-hysteria2://sub_be721490-929d-4b_67:zHPB5E2c7RAV64LbEG8cKBYpJWAN4SFg@91.185.83.48:51250?security=tls&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22HdIeb%24_FG42iE%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&sni=antikifin.xanka.best#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%232
+vless://97e967da-1d2b-439e-836b-a9d5a90496dc@31.129.42.239:443?encryption=none&security=reality&sni=vk.com&fp=firefox&pbk=KwPeoAnP208rOsWWHSjhPKdpVzvIHpfBUltBHaBCSDs&sid=d9114354&type=grpc&mode=gun&authority=&serviceName=grpc8c948083b439#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%232
 
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dartsearch-cn.net&fp=firefox&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland
-
-hysteria2://sub_be721490-929d-4b_67:zHPB5E2c7RAV64LbEG8cKBYpJWAN4SFg@91.185.83.48:51250?security=tls&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22HdIeb%24_FG42iE%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&sni=antikifin.xanka.best#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%232
-
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%B5%F0%9F%87%B1%20Poland
-
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%232
-
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%232
-
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%BA%F0%9F%87%B8%20America
-
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%BA%F0%9F%87%B8%20America%20%232
-
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dartsearch-cn.net&fp=firefox&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20LTE
-
-hysteria2://sub_be721490-929d-4b_67:zHPB5E2c7RAV64LbEG8cKBYpJWAN4SFg@91.185.83.48:51250?security=tls&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22HdIeb%24_FG42iE%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&sni=antikifin.xanka.best#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%232
-
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%233
-
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%234
-
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%235
-
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%236
+vless://97e967da-1d2b-439e-836b-a9d5a90496dc@31.129.42.239:443?encryption=none&security=reality&sni=vk.com&fp=firefox&pbk=KwPeoAnP208rOsWWHSjhPKdpVzvIHpfBUltBHaBCSDs&sid=d9114354&type=grpc&mode=multi&authority=&serviceName=grpc8c948083b439#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%233
