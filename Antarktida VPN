@@ -36,7 +36,7 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?encryption=none&s
 
 vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@au.windconnect.pro:12200?flow=xtls-rprx-vision&encryption=none&security=reality&sni=au.windconnect.pro&fp=firefox&pbk=Kjw_K41-jWxqzAMtOby5y0KREhyjybuHsAHfCEFo6Sc&sid=222afa5374b722b9&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20TEST
 
-vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@95.85.255.234:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pl2.tgflow.me&fp=firefox&pbk=1ZBhRTknlYNmUbBqYhAgNNn2alYjcQMKPk-lMQJjkxw&sid=ac6d5283da9cab07&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20TEST vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@95.85.255.234:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pl2.tgflow.me&fp=firefox&pbk=1ZBhRTknlYNmUbBqYhAgNNn2alYjcQMKPk-lMQJjkxw&sid=ac6d5283da9cab07&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20TEST
+vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@95.85.255.234:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pl2.tgflow.me&fp=firefox&pbk=1ZBhRTknlYNmUbBqYhAgNNn2alYjcQMKPk-lMQJjkxw&sid=ac6d5283da9cab07&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20TEST
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20TEST
 
